@@ -97,6 +97,13 @@ To view the live version of the website, visit:
 
 ---
 
+📞 Contact
+For any questions or suggestions, feel free to reach out to the repository owner:
+
+Email: your-tfarukramim@gmail.com
+
+GitHub: github.com/githubramim
+
 ## 💻 Code Example
 
 Here’s a simple JavaScript snippet to toggle the hamburger menu:
@@ -109,12 +116,7 @@ hamburgerBtn.addEventListener("click", () => {
   navbar.classList.toggle("hidden");
 });
 
-📞 Contact
-For any questions or suggestions, feel free to reach out to the repository owner:
 
-Email: your-email@example.com
-
-GitHub: github.com/your-username
 
 🤝 Contributing
 We welcome contributions to enhance the project. To contribute:
