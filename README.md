@@ -83,7 +83,7 @@ You can customize this project by:
 
 To view the live version of the website, visit:
 
-[Live Demo Link](#) *(Replace with your live URL)*
+[https://githubramim.github.io/nature_plate/](#) *(Replace with your live URL)*
 
 ---
 
