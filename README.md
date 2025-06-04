@@ -100,9 +100,9 @@ To view the live version of the website, visit:
 📞 Contact
 For any questions or suggestions, feel free to reach out to the repository owner:
 
-Email: your-tfarukramim@gmail.com
+Email: tfarukramim@gmail.com
 
-GitHub: github.com/githubramim
+GitHub: https://github.com/githubramim
 
 ## 💻 Code Example
 
